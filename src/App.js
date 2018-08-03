@@ -20,9 +20,8 @@ class App extends Component {
                     <h1 id='schwoertemeu'>Schwoertemeu</h1>
                     <p>
                         Le <i>Schwoertemeu</i> (ou <i>Presskopf</i>, ou encore <i>Schwardenmage</i>) est une sorte
-                        de fromage de tête Alsacien. On fait cuire les abats du cochon (cervelle, pieds, cœur,
-                        bas-joues), dont on farcit l'estomac. On refait cuire le tout, puis on le passe au
-                        fumoir.
+                        de fromage de tête Alsacien. On fait cuire les abats du cochon (tête, pieds, cœur),
+                        dont on farcit l'estomac. On refait cuire le tout, puis on le passe au fumoir.
                     </p>
                     <h2>Ingrédients</h2>
                     <ul>
@@ -83,7 +82,8 @@ class App extends Component {
                             Faire bouillir et écumer.
                         </li>
                         <li>
-                            Ajouter le coeur une heure avant la fin (il doit cuire moins longtemps que le reste.
+                            Ajouter le coeur et la langue une heure avant la fin (ils doivent cuire
+                            moins longtemps que le reste).
                         </li>
                         <li>
                             Quand tout est bien cuit, séparer les os du reste.
