@@ -13,6 +13,9 @@ class App extends Component {
                     <li>
                         <a href='#hurzelsknepfle'>Hurzelsknepfle</a>
                     </li>
+                    <li>
+                        <a href='#beignets-accacia'>Beignets de fleurs d'accacia</a>
+                    </li>
                 </ul>
             </nav>
             <div className='recipes'>
@@ -198,6 +201,37 @@ class App extends Component {
                         <li>
                             Lorsqu'on entend crépiter, c'est que c'est cuit. Alors on retirer le couvercle
                             d'un coup sec, pour éviter de faire tomber de l'eau dans la casserole.
+                        </li>
+                    </ol>
+                </div>
+                <div className='recipe'>
+                    <h1 id='beignets-accacia'>Beignets de fleurs d'accacia</h1>
+                    <h2>Ingrédients</h2>
+                    <ul>
+                        <li>des fleurs d'accacia sur leur tige</li>
+                        <li>de l'huile</li>
+                        <li>Pâte à beignets
+                            <ul>
+                                <li>2 cuillères à soupe de farine</li>
+                                <li>1 cuillère à soupe de Maïzena</li>
+                                <li>1 oeuf dont le blanc battu en neige</li>
+                                <li>un peu de sucre vanillé</li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <h2>Recette</h2>
+                    <ol>
+                        <li>
+                            Citronner les fleurs.
+                        </li>
+                        <li>
+                            Faire une pâte à beignet.
+                        </li>
+                        <li>
+                            Tremper les tiges dans la pâte à beignet, puis les faire frire.
+                        </li>
+                        <li>
+                            Servir tout de suite.
                         </li>
                     </ol>
                 </div>
